@@ -1,4 +1,4 @@
-###Olá, meu nome é Felipe😎
+### Olá, meu nome é Felipe😎</br>
 Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo habilidades em HTML, JavaScript e CSS.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefsousa/)
