@@ -7,6 +7,7 @@ Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo hab
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeNer0&show_icons=true&theme=dracula)
 
+<hr>
 ### Tecnologias que utilizo no meu dia
 Atualmente estou estudando e me aperfeiçoando nas tecnologias abaixo.
 
@@ -16,5 +17,9 @@ Atualmente estou estudando e me aperfeiçoando nas tecnologias abaixo.
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
-
+<div>
+ <a href="https://github.com/ademar-costa">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNer0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
 Apaixonado por desenvolvimento, sempre buscando conhecer e aprender mais tecnologias.
