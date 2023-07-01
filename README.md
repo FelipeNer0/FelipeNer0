@@ -8,6 +8,7 @@ Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo hab
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeNer0&show_icons=true&theme=dracula)
 
 <hr>
+
 ### Tecnologias que utilizo no meu dia
 Atualmente estou estudando e me aperfeiçoando nas tecnologias abaixo.
 
