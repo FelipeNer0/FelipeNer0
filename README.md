@@ -10,7 +10,7 @@ Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo hab
 <hr>
 
 ### Tecnologias que utilizo no meu dia
-Atualmente estou estudando e me aperfeiçoando nas tecnologias abaixo.
+Atualmente estou estudando e me aperfeiçoando nas seguintes tecnologias:
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
