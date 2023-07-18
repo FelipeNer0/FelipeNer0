@@ -5,7 +5,7 @@ Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo hab
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.ff18/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.dev803@gmail.com)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeNer0&show_icons=true&theme=dracula)
+![Felipe GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeNer0&show_icons=true&theme=dracula)
 
 <hr>
 
@@ -22,7 +22,7 @@ Atualmente estou estudando e me aperfeiçoando nas seguintes tecnologias:
 </div><br/>
 <div>
  <a href="https://github.com/ademar-costa">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNer0&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeNer0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 Apaixonado por desenvolvimento, sempre buscando conhecer e aprender mais tecnologias.
