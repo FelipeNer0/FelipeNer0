@@ -1,5 +1,7 @@
 ### Olá, meu nome é Felipe😎</br>
-Tenho 23 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo habilidades em HTML, JavaScript e CSS.
+Tenho 24 anos e sou um entusiasta de desenvolvimento web. Atualmente, possuo habilidades em HTML, JavaScript e CSS.
+
+<img align="right" height="150" src="https://i.gifer.com/origin/ab/abc53bfa932b8cc9150b657343c34a9b_w200.gif"  />
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefsousa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.ff18/)
@@ -21,7 +23,7 @@ Atualmente estou estudando e me aperfeiçoando nas seguintes tecnologias:
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
 <div>
- <a href="https://github.com/ademar-costa">
+ <a href="https://github.com/FelipeNer0">
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeNer0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
